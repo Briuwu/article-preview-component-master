@@ -1,4 +1,4 @@
-const shareBtn = document.querySelectorAll('#shareBtn')
+const shareBtn = document.querySelectorAll('.shareBtn')
 const share = document.querySelector('.share')
 
 shareBtn.forEach(btn => {
